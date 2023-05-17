@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming & Gaming 
 - 🌱 I’m currently learning .Net Core
 - 💞️ I’m looking to collaborate on anyone
-- 📫 How to reach me https://dev-jg.000webhostapp.com/
+- 📫 How to reach me https://www.linkedin.com/in/jgeli/
 
 
 <div>
