@@ -6,16 +6,6 @@
   - **LinkedIn:** [@LinkedIn](https://www.linkedin.com/in/jgeli/)  
   - **Portfolio:** [personal-portfolio-vert.vercel.app](https://personal-porfolio-vert.vercel.app/)
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlgelii&show_icons=true&theme=dark" alt="jlgelii" />
-<div/>
-<br />
-  
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlgelii&layout=compact&hide=html&theme=dark" alt="jlgelii" />
-<div/>
-<br />
-
 ![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=jlgelii&repo=jlgelii&countColor=%237B1E7A)
 
 <!---
